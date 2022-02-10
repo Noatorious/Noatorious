@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Noa
-- 👀 I’m interested in learning web frameworks
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning ReactJS and about Web3
 - 💞️ Would love to create the frontend for NFT projects
 - 📫 Send me a DM!
